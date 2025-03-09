@@ -1,5 +1,4 @@
-# meu-primeiro-repositorio
- Primeiro Repositório do curso de Git e GitHub
+# Projeto Aplicado
 
-Repositório sendo criado
-alterado no GitHub
+Curso ANALISE E DESENVOLVIMENTO DE SISTEMAS
+SENAI-SC
